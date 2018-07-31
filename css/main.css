@@ -1,6 +1,7 @@
 * {
     margin: 0;
     padding: 0;
+    font-family: sans-serif;
 }
 
 table {
@@ -20,3 +21,12 @@ td {
 }
 
 
+.diagonal {
+    background-color: orange;
+}
+
+.antidiagonal {
+    color: orange;
+    text-transform: uppercase;
+    font-weight: 700;
+}
